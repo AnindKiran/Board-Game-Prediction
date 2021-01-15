@@ -1,6 +1,6 @@
 # Board-Game-Prediction
-<div style = "display:block; margin:auto;">
-  <img src = "https://github.com/AnindKiran/Board-Game-Prediction/blob/main/KYh7T7-nW-L-NrdG8tORjpRSW3rkEGvi0vLRFIayD-I327AulJA-L1CQTDyljXSkA0s%3Dw300.png" text-align = "center">
+<div style = "position:absolute; width:100%; height:100%">
+  <img src = "https://github.com/AnindKiran/Board-Game-Prediction/blob/main/KYh7T7-nW-L-NrdG8tORjpRSW3rkEGvi0vLRFIayD-I327AulJA-L1CQTDyljXSkA0s%3Dw300.png" >
 </div>
 
 #### Project 2 in a series of small projects designed to practice practical Machine Learning using sklearn, Pandas etc
