@@ -13,7 +13,7 @@ The dataset used can be found in the repository, along with the source code.
 
 ### Cloning the repo
 ```sh
-git clone 
+git clone https://github.com/AnindKiran/Board-Game-Prediction
 cd Board-Game-Prediction
 ```
 
