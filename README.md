@@ -1,5 +1,5 @@
 # Board-Game-Prediction
-
+<img src = "https://github.com/AnindKiran/Board-Game-Prediction/blob/main/KYh7T7-nW-L-NrdG8tORjpRSW3rkEGvi0vLRFIayD-I327AulJA-L1CQTDyljXSkA0s%3Dw300.png"> </img> 
 #### Project 2 in a series of small projects designed to practice practical Machine Learning using sklearn, Pandas etc
 
 The dataset used can be found in the repository, along with the source code. 
