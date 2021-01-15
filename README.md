@@ -1,5 +1,5 @@
 <div>
-<img src = "https://github.com/AnindKiran/Board-Game-Prediction/blob/main/KYh7T7-nW-L-NrdG8tORjpRSW3rkEGvi0vLRFIayD-I327AulJA-L1CQTDyljXSkA0s%3Dw300.png">
+<img src = "https://github.com/AnindKiran/Board-Game-Prediction/blob/main/KYh7T7-nW-L-NrdG8tORjpRSW3rkEGvi0vLRFIayD-I327AulJA-L1CQTDyljXSkA0s%3Dw300.png" width = "5%" height = "5%">
 
 # Board-Game-Prediction
 </div>
