@@ -17,13 +17,15 @@ git clone
 cd Board-Game-Prediction
 ```
 
-### Prerequisites
-The prerequisite libraries are: 
+### Prerequisites libraries
+
+It is presumed that you have at least Python 3.7. 
+The prerequisites include: sklearn, Pandas, Matplotlib, Seaborn. Although using conda would be preferable, the following commands use pip to install libraries considering most people have the 'pip' utility. Use the following commands to install them: 
 ```sh
-sklearn
-matplotlib
-seaborn
-pandas
+pip install -U scikit-learn
+pip install pandas
+pip install matplotlib
+pip install seaborn
 ```
 
 ### Using the notebook
