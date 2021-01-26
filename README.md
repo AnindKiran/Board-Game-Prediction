@@ -5,7 +5,7 @@
 
 # Board-Game-Prediction
 
-#### Project 2 in a series of small projects designed to practice practical Machine Learning using sklearn, Pandas, and other such libraries. 
+#### Project 2 in a series of mini-projects designed to practice practical Machine Learning using sklearn, Pandas, and other such libraries. 
 
 The dataset used can be found in the repository, along with the source code. 
 
